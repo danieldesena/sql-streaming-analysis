@@ -1,0 +1,21 @@
+filme_id,titulo,genero,ano_lancamento,duracao_min,classificacao,nota_imdb
+1,Interestelar,Ficção Científica,2014,169,12,8.6
+2,Parasita,Drama,2019,132,16,8.5
+3,O Poderoso Chefão,Crime,1972,175,16,9.2
+4,Vingadores: Ultimato,Ação,2019,181,12,8.4
+5,Coco,Animação,2017,105,L,8.4
+6,Coringa,Drama,2019,122,16,8.4
+7,Duna,Ficção Científica,2021,155,12,8.0
+8,Encanto,Animação,2021,99,L,7.2
+9,Nomadland,Drama,2020,108,14,7.3
+10,A Origem,Ficção Científica,2010,148,12,8.8
+11,Clube da Luta,Drama,1999,139,18,8.8
+12,Toy Story,Animação,1995,81,L,8.3
+13,Matrix,Ficção Científica,1999,136,14,8.7
+14,O Senhor dos Anéis: A Sociedade do Anel,Fantasia,2001,178,12,8.8
+15,Titanic,Romance,1997,194,12,7.9
+16,Jurassic Park,Aventura,1993,127,12,8.2
+17,Pulp Fiction,Crime,1994,154,18,8.9
+18,Forrest Gump,Drama,1994,142,12,8.8
+19,Harry Potter e a Pedra Filosofal,Fantasia,2001,152,L,7.6
+20,Homem-Aranha no Aranhaverso,Animação,2018,117,L,8.4

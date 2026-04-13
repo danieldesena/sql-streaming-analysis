@@ -1,0 +1,16 @@
+usuario_id,nome,email,pais,plano,data_cadastro
+1,Ana Silva,ana.silva@email.com,Brasil,Premium,2022-03-15
+2,Carlos Souza,carlos.souza@email.com,Brasil,Básico,2021-07-22
+3,Mariana Costa,mariana.costa@email.com,Portugal,Standard,2023-01-10
+4,Pedro Alves,pedro.alves@email.com,Brasil,Premium,2020-11-05
+5,Fernanda Lima,fernanda.lima@email.com,Brasil,Básico,2022-08-19
+6,Lucas Mendes,lucas.mendes@email.com,Argentina,Standard,2021-04-30
+7,Juliana Rocha,juliana.rocha@email.com,Brasil,Premium,2023-06-14
+8,Rafael Nunes,rafael.nunes@email.com,Brasil,Básico,2022-12-01
+9,Camila Ferreira,camila.ferreira@email.com,México,Standard,2021-09-25
+10,Bruno Carvalho,bruno.carvalho@email.com,Brasil,Premium,2020-05-17
+11,Isabela Martins,isabela.martins@email.com,Brasil,Standard,2023-02-28
+12,Thiago Oliveira,thiago.oliveira@email.com,Portugal,Básico,2022-06-08
+13,Larissa Santos,larissa.santos@email.com,Brasil,Premium,2021-11-12
+14,Gustavo Pereira,gustavo.pereira@email.com,Brasil,Standard,2023-04-05
+15,Bianca Ribeiro,bianca.ribeiro@email.com,Chile,Básico,2022-01-20
